@@ -13,7 +13,11 @@ Aplicação desenvolvida em Java utilizando o Maven, projetada para consumir a P
 ## 📋 Funcionalidades
 
 - Consulta de Pokémon por nome ou número de identificação.
+<<<<<<< HEAD
 - Exibição de dados formatados: ID, Nome (com inicial maiúscula), Tipo(s) e a Sprite frontal oficial do Pokémon.
+=======
+- Exibição de dados formatados: ID, Nome, Tipo(s) e a Sprite frontal oficial do Pokémon.
+>>>>>>> fb23e193975da2d9a7bbdac9b3184b602634a333
 - Tratamento de exceções e validações de entrada do utilizador e de status de conexão da API.
 
 ## 🛠️ Como Executar
